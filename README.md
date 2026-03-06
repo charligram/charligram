@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos
 
-<!--
-**charligram/charligram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero Informático con enfoque en **Python, análisis de datos y desarrollo**.  
+Me interesa especialmente crear soluciones relacionadas al **manejo de datos** y con vista a **escalar en inteligencia artificial**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🐍 **Lenguaje principal:** Python  
+- 📊 **Intereses:** Data Science, Análisis de datos  
+- 🌐 **Desarrollo web con:** Flask  
+- 🗄️ **Experiencia trabajando con:** bases de datos SQL  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+- Python  
+- SQL  
+- HTML / CSS  
+- JavaScript (básico)  
+
+### Frameworks y Librerías
+- Django  
+- Flask  
+- Pandas  
+- Numpy  
+
+### Herramientas
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/carlos-rojas-villegas-8364a9311  
+
+- 📧 **Email:**  
+  carlosinformatico.rv@gmail.com

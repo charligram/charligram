@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carlos
 
-💻 Ingeniero Informático con enfoque en **Python, análisis de datos y desarrollo**.  
-Me interesa especialmente crear soluciones relacionadas al **manejo de datos** y con vista a **escalar en inteligencia artificial**.
+💻 Ingeniero Informático con enfoque en **Python, análisis de datos, desarrollo y DataScience**.  
+Me interesa especialmente crear soluciones relacionadas al **manejo de datos** y **ciencia de datos**, con vista a **escalar en inteligencia artificial**.
 
 ---
 
@@ -9,8 +9,7 @@ Me interesa especialmente crear soluciones relacionadas al **manejo de datos** y
 
 - 🐍 **Lenguaje principal:** Python  
 - 📊 **Intereses:** Data Science, Análisis de datos  
-- 🌐 **Desarrollo web con:** Flask  
-- 🗄️ **Experiencia trabajando con:** bases de datos SQL  
+- 🌐 **Desarrollo web con:** Flask
 
 ---
 
@@ -25,7 +24,10 @@ Me interesa especialmente crear soluciones relacionadas al **manejo de datos** y
 ### Frameworks y Librerías
 - Django  
 - Flask  
-- Pandas  
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Pyplot
 - Numpy  
 
 ### Herramientas
